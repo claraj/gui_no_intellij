@@ -12,12 +12,22 @@ public class HelloGUI extends JPanel{
 
     HelloGUI() {
 
+        addComponents();
+        addListeners();
+
+    }
+
+    private void addComponents() {
+
         button = new JButton("Click me!");
         add(button);
 
         helloLabel = new JLabel("Hello", JLabel.CENTER);
         add(helloLabel);
 
+    }
+
+    private void addListeners() {
 
         button.addActionListener(new ActionListener() {
             @Override
