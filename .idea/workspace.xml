@@ -2,52 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="935ac706-fefc-402e-959a-4a6a77ea5356" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GUI_No_IntelliJ/lake/BestTimesTableModel.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GUI_No_IntelliJ/visa_amex_mc_validator/CreditCardValidatorGUI$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GUI_No_IntelliJ/visa_card_validator/CreditCardValidatorGUI$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GUI_No_IntelliJ/visa_amex_mc_validator/CreditCardValidatorGUI$2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GUI_No_IntelliJ/visa_card_validator/CreditCardValidatorGUI$2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GUI_No_IntelliJ/visa_amex_mc_validator/CreditCardValidatorGUI$3.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GUI_No_IntelliJ/visa_amex_mc_validator/CreditCardValidatorGUI$4.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GUI_No_IntelliJ/visa_amex_mc_validator/CreditCardValidatorGUI.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GUI_No_IntelliJ/visa_card_validator/CreditCardValidatorGUI.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GUI_No_IntelliJ/dog/Dog.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GUI_No_IntelliJ/dog/DogGUI$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GUI_No_IntelliJ/dog/DogGUI$2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GUI_No_IntelliJ/dog/DogGUI$3.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GUI_No_IntelliJ/dog/DogGUI.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GUI_No_IntelliJ/lake/FileIO.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GUI_No_IntelliJ/hello_gui/HelloGUI$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GUI_No_IntelliJ/hello_gui/HelloGUI.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GUI_No_IntelliJ/lake/Lake.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GUI_No_IntelliJ/movie/MovieRatingGUI$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GUI_No_IntelliJ/movie/MovieRatingGUI.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GUI_No_IntelliJ/pet_survey/PetSurvey$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GUI_No_IntelliJ/pet_survey/PetSurvey$2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GUI_No_IntelliJ/pet_survey/PetSurvey$3.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GUI_No_IntelliJ/pet_survey/PetSurvey$4.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GUI_No_IntelliJ/pet_survey/PetSurvey.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GUI_No_IntelliJ/lake/RunningGUI$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GUI_No_IntelliJ/lake/RunningGUI$2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GUI_No_IntelliJ/lake/RunningGUI$3.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GUI_No_IntelliJ/lake/RunningGUI$4.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GUI_No_IntelliJ/lake/RunningGUI.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GUI_No_IntelliJ/starting_salary/Salary$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GUI_No_IntelliJ/starting_salary/Salary$2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GUI_No_IntelliJ/starting_salary/Salary.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GUI_No_IntelliJ/snake_stat_database/SnakeDataModel.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GUI_No_IntelliJ/snake_stat_database/SnakeGUI.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GUI_No_IntelliJ/todo/ToDoList$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GUI_No_IntelliJ/todo/ToDoList$2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GUI_No_IntelliJ/todo/ToDoList.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GUI_No_IntelliJ/movie/movie$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GUI_No_IntelliJ/movie/movie$2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GUI_No_IntelliJ/movie/movie$3.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GUI_No_IntelliJ/movie/movie$4.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GUI_No_IntelliJ/movie/movie.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/snake_stat_database/SnakeDataModel.java" afterPath="$PROJECT_DIR$/src/snake_stat_table/SnakeDataModel.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/snake_stat_database/SnakeGUI.java" afterPath="$PROJECT_DIR$/src/snake_stat_table/SnakeGUI.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="GUI_No_IntelliJ.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -207,9 +162,9 @@
     <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="468" />
-    <option name="y" value="23" />
-    <option name="width" value="972" />
+    <option name="x" value="81" />
+    <option name="y" value="34" />
+    <option name="width" value="826" />
     <option name="height" value="840" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -765,7 +720,7 @@
       <updated>1477422813133</updated>
       <workItem from="1477422816588" duration="11043000" />
       <workItem from="1477511738088" duration="5183000" />
-      <workItem from="1478789110798" duration="148000" />
+      <workItem from="1478789110798" duration="209000" />
     </task>
     <task id="LOCAL-00001" summary="GUI examples, no IntelliJ">
       <created>1477515403472</created>
@@ -783,7 +738,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16374000" />
+    <option name="totallyTimeSpent" value="16435000" />
   </component>
   <component name="TodoView" selected-index="4">
     <todo-panel id="selected-file">
@@ -806,7 +761,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="468" y="23" width="972" height="840" extended-state="0" />
+    <frame x="81" y="34" width="826" height="840" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -829,7 +784,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.29892474" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.35459185" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.30481285" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
