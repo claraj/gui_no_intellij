@@ -1,10 +1,10 @@
-package snake_stat_database;
+package snake_stat_table;
 
 import javax.swing.table.AbstractTableModel;
 import java.util.LinkedList;
 
 /**
-Provides data for th JTable in SnakeGUI
+Provides data for the JTable in SnakeGUI
  */
 public class SnakeDataModel extends AbstractTableModel {
 

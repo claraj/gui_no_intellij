@@ -1,4 +1,4 @@
-package snake_stat_database;
+package snake_stat_table;
 
 import javax.swing.*;
 import java.awt.*;
